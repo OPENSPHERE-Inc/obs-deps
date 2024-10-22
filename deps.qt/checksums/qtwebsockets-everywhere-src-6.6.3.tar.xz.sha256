@@ -1,0 +1,14 @@
+<Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04">
+  <Obj RefId="0">
+    <TN RefId="0">
+      <T>Microsoft.PowerShell.Commands.FileHashInfo</T>
+      <T>System.Object</T>
+    </TN>
+    <ToString>Microsoft.PowerShell.Commands.FileHashInfo</ToString>
+    <Props>
+      <S N="Algorithm">SHA256</S>
+      <S N="Hash">16F481765794DD66E4538A1074FBC9A68E2091EDA5F99868CC27D9B1A931A036</S>
+      <S N="Path">D:\Users\hanatyan\Downloads\qtwebsockets-everywhere-src-6.6.3.tar.xz</S>
+    </Props>
+  </Obj>
+</Objs>
